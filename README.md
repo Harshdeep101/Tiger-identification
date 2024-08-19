@@ -3,7 +3,7 @@
 ## Introduction:
 
 Tiger re-identification Develop an image classification model utilizing deep learning techniques to identify and distinguish different tigers based on their features
-![image](![image](https://github.com/user-attachments/assets/d1b7ad82-bf8f-417d-b3e7-9a4455810926)
+![image](https://github.com/user-attachments/assets/d1b7ad82-bf8f-417d-b3e7-9a4455810926)
 
 
 ## Dataset 

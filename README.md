@@ -14,6 +14,11 @@ Tiger re-identification Develop an image classification model utilizing deep lea
 ## Dataset 
 One can download the dataset [here](https://www.kaggle.com/datasets/quadeer15sh/amur-tiger-reidentification/data).
 
+## Pre Trained Model
+Here are the pretrained models on the given dataset:
+Resnet: [here](https://1drv.ms/f/s!AjMzlbqC81_ZapGumRTu-EsxWkI?e=VqcIDM)
+EfficientNb3:[here](https://1drv.ms/f/s!AjMzlbqC81_ZapGumRTu-EsxWkI?e=VqcIDM)
+
 
 
 
